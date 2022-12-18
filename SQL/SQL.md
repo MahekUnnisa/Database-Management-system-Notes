@@ -47,3 +47,6 @@
         - **[ROLLBACK](https://www.geeksforgeeks.org/sql-transactions/):** Rollbacks a transaction in case of any error occurs.
         - **[SAVEPOINT](https://www.geeksforgeeks.org/sql-transactions/):** Sets a savepoint within a transaction.
         - **[SET TRANSACTION:](https://www.geeksforgeeks.org/sql-transactions/)** Specify characteristics for the transaction.
+
+## SQL cheatsheet
+[BASIC SQL Link](https://www.educba.com/cheat-sheet-sql/?source=leftnav)
