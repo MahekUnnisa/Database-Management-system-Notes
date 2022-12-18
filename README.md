@@ -2,15 +2,15 @@
 This is my DBMS notes which I wrote while studying the topic.
 For Quick Navigation,
 
-Introduction
+**Introduction**
  - [Basics](https://github.com/MahekUnnisa/Database-Management-system-Notes/blob/main/Introduction/Basics.md)
  - [Data Abstraction](https://github.com/MahekUnnisa/Database-Management-system-Notes/blob/main/Introduction/Data%20Abstraction.md)
 
-RDBMS
+**RDBMS**
  - [Introduction](https://github.com/MahekUnnisa/Database-Management-system-Notes/blob/main/RDBMS/Introduction.md)
  - [Keys in RDBMS](https://github.com/MahekUnnisa/Database-Management-system-Notes/blob/main/RDBMS/Keys.md)
 
-SQL
+**SQL**
  - [SQL Basics](https://github.com/MahekUnnisa/Database-Management-system-Notes/tree/main/SQL)
 
 There are many topics that are needed to be added. But I studied them in my notebook.
