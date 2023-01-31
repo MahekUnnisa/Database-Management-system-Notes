@@ -29,7 +29,7 @@
     DCL includes commands such as GRANT and REVOKE which mainly deal with the rights, permissions, and other controls of the database system.
     
     - List of  DCL commands:
-        - **[GRANT:](https://www.geeksforgeeks.org/mysql-grant-revoke-privileges/)** This command ****gives users access privileges to the database.
+        - **[GRANT:](https://www.geeksforgeeks.org/mysql-grant-revoke-privileges/)** This command gives users access privileges to the database.
         - **[REVOKE:](https://www.geeksforgeeks.org/difference-between-grant-and-revoke/)** This command withdraws the user’s access privileges given by using the GRANT command.
 - ***DML – Data Manipulation Language***
     1. deals with the manipulation of data present in the database belonging to DML or Data Manipulation Language and this includes most of the SQL statements. 
