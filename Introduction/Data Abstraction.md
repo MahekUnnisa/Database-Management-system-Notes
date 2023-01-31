@@ -1,6 +1,4 @@
 # Data abstraction
-<img src ="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5bf5e19a-d26e-4ae8-9cc4-08dbe2024a98/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20221214%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20221214T170214Z&X-Amz-Expires=86400&X-Amz-Signature=07ee16bc4d38e3e4af3928afcc7fce57e4c4a6e3d12a3590f50f5c02a5e51633&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject"/>
-
 1. refers to the process of hiding irrelevant details from the user.
 2. There are mainly three levels of data abstraction and we divide it into three levels in order to achieve ***Data Independence.*** 
 3. Data Independence means users and data should not directly interact with each other. The user should be at a different level and the data should be present at some other level. By doing so, Data Independence can be achieved.
